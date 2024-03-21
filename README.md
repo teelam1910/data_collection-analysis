@@ -1,4 +1,56 @@
-# data_collection-analysis
+# Data Collection and Web Scaping Analysis
+
+
+
+
+## Description
+The project involved two main tasks:  Part 1: Mars News Scraping  Utilizing Splinter and Beautiful Soup, automated browsing was conducted to extract HTML code from the Mars news site. Titles and preview text of news articles were scraped and stored in a list of dictionaries.  Part 2: Mars Weather Data Analysis  Mars weather data was scraped using Pandas or a combination of Splinter and Beautiful Soup, forming a structured DataFrame. Analysis included determining the number of Martian months and days, identifying months with the lowest/highest average temperatures and atmospheric pressures, and estimating the number of terrestrial days in a Martian year within a 25% margin of error. The DataFrame was exported to a CSV file for further analysis.
+
+## Visuals
+### Deliverable 1: Scrape titles and preview text from Mars news articles.
+![Part 1- image](https://github.com/teelam1910/data_collection-analysis/assets/132629216/9a301296-518a-481d-896d-8bfec2e855c1)<br>
+
+
+### Deliverable 2: Scrape and analyze Mars weather data, which exists in a table + visuals.<br>
+![Part 2- image](https://github.com/teelam1910/data_collection-analysis/assets/132629216/f75790fe-5c1f-47b3-832f-4a9f7f6fd8dc)<br>
+![visual 1](https://github.com/teelam1910/data_collection-analysis/assets/132629216/d9450bc3-6e34-4d13-b624-9830a524f14f)<br>
+![visual 2](https://github.com/teelam1910/data_collection-analysis/assets/132629216/c919dea6-33f9-43c4-8a46-d2869876c9dd)<br>
+![visual 3](https://github.com/teelam1910/data_collection-analysis/assets/132629216/5ac6b0f9-e9eb-4b75-bd5f-0692befe6a82)<br>
+![visual 4](https://github.com/teelam1910/data_collection-analysis/assets/132629216/4f96ece8-1459-42b0-872f-264472fdfcaf)<br>
+
+
+
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+
+- [Features](#features)
+
+- [Contact](#contact)
+- [Resources](#resources)
+
+## Installation
+Python//Splinter//Beautiful Soup//Pandas
+
+## Usage
+ The project offers a platform to collect, analyze, and visualize Mars-related data, aiding in better comprehension of the Martian environment and climate. It's beneficial for researchers, educators, students, and anyone intrigued by Mars data exploration.
+
+## Credits
+Tiffany La Mar
+
+
+
+## Features
+This project features automated browsing, web scraping, data storage, analysis, visualization, data export, flexibility, and accessibility.
+
+
+
+## Contact
+If there are any questions of concerns, I can be reached at:
+##### [github: teelam1910](https://github.com/teelam1910)
+##### [email: tiffanylamar1@gmail.com](mailto:tiffanylamar1@gmail.com)
+
 
 ## Resources
 - https://www.geeksforgeeks.org/how-to-count-occurrences-of-specific-value-in-pandas-column/<br>
